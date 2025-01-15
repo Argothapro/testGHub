@@ -1,0 +1,9 @@
+<doctype html>
+<html>
+	<head>
+		<title> >w< </title>
+	</head>
+	<body>
+		<p1> UwU </p1>
+	</body>
+</html>
